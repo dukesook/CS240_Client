@@ -1,0 +1,2 @@
+rootProject.name='CS240_Client'
+include ':app'
